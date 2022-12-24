@@ -1,0 +1,40 @@
+*{
+    background-color: cyan;
+}
+.container{
+    text-align: center;
+    background-color: black;
+margin: 3px 398px;
+    
+}
+table{
+    margin: auto;
+    background-color: black;
+}
+input{
+    font-size: 33px;
+    
+}
+button{
+    font-size: 40px;
+    background-color: rgb(215, 228, 137);
+    width: 102px;
+    height: 58px;
+   
+}
+.container{
+    border: 2px solid green;
+    display: inline-block;
+}
+h1{
+    color: white;
+    font-weight: bold;
+    background-color: black;
+}
+.calculator{
+    background-color: black;
+}
+#screen{
+    background-color: gray;
+    color: rgb(208, 244, 5);
+}
